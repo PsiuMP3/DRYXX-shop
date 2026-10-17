@@ -1,0 +1,19 @@
+DRYXX SHOP — site independente pronto para publicação
+====================================================
+
+Conteúdo:
+- index.html: site responsivo independente (HTML, CSS e JavaScript).
+- assets/: imagens da identidade visual e produtos.
+- Carrinho com quantidades, tamanhos e total.
+- WhatsApp Business configurado: +55 21 96680-7173.
+- Preço configurado: R$ 49,90 por camiseta.
+
+Como testar:
+1. Extraia o ZIP inteiro.
+2. Abra a pasta DRYXX_SHOP_site.
+3. Abra index.html num navegador. Para testar o envio do pedido, adicione produtos à sacola e clique em Finalizar pelo WhatsApp.
+4. O WhatsApp abrirá com o pedido preenchido; envie a mensagem para concluir o contato.
+
+Publicação:
+Este pacote é um site estático e não usa WordPress. Para ficar público, ele precisa ser enviado a uma hospedagem e ligado a um domínio (seu domínio próprio é opcional no primeiro teste).
+Não tenho acesso à conta de hospedagem nem ao registrador de domínio do usuário, então não publiquei na internet e não comprei domínio.
